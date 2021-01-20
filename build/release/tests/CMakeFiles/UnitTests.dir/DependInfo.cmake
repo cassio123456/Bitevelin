@@ -1,0 +1,82 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/ArrayRefTests.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayRefTests.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/ArrayViewTests.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayViewTests.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/Base58.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Base58.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/BlockReward.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockReward.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/BlockingQueue.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockingQueue.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/Chacha8.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Chacha8.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/Checkpoints.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Checkpoints.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/DecomposeAmountIntoDigits.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/DecomposeAmountIntoDigits.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/EventWaiter.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/EventWaiter.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/ICoreStub.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICoreStub.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/ICryptoNoteProtocolQueryStub.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICryptoNoteProtocolQueryStub.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/INodeStubs.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/INodeStubs.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/MulDiv.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/MulDiv.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/ParseAmount.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ParseAmount.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/PaymentGateTests.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/PaymentGateTests.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/Serialization.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Serialization.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/SerializationKV.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/SerializationKV.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/Shuffle.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Shuffle.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/StringBufferTests.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringBufferTests.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/StringViewTests.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringViewTests.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestBcS.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBcS.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestBlockchainExplorer.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainExplorer.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestBlockchainGenerator.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainGenerator.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestCryptonoteBasic.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestCryptonoteBasic.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestCurrency.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestCurrency.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestDepositIndex.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestDepositIndex.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestFormatUtils.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestFormatUtils.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestInprocessNode.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestInprocessNode.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestJsonValue.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestJsonValue.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestMessageQueue.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestMessageQueue.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestPath.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPath.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestPeerlist.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPeerlist.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestProtocolPack.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestProtocolPack.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestTransactionPoolDetach.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransactionPoolDetach.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestTransfers.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfers.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestTransfersConsumer.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersConsumer.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestTransfersContainer.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainer.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestTransfersContainerKeyImage.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainerKeyImage.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestTransfersSubscription.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersSubscription.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestUpgradeDetector.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestUpgradeDetector.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestWallet.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWallet.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestWalletLegacy.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletLegacy.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestWalletService.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletService.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TestWalletUserTransactionsCache.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletUserTransactionsCache.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TransactionApi.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApi.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TransactionApiHelpers.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApiHelpers.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/TransactionPool.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionPool.cpp.o"
+  "/home/ubuntu/digitalnote/Bitevelin/tests/UnitTests/main.cpp" "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/main.cpp.o"
+  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+SET(CMAKE_TARGET_DEFINITIONS
+  "STATICLIB"
+  )
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/external/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/PaymentGate.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/tests/CMakeFiles/TestGenerator.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/System.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/BlockchainExplorer.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake"
+  "/home/ubuntu/digitalnote/Bitevelin/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  )
